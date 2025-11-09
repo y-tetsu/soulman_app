@@ -1,0 +1,17 @@
+English:
+This file contains the full license terms for the executable version of the game “soulman”.
+All program code, compiled binaries, and related logic are copyrighted by y-tetsu.
+
+You may use this executable for personal enjoyment.
+However, reproduction, modification, redistribution, or reverse engineering of the executable or its contents is prohibited without permission from the author.
+
+© 2025 y-tetsu — All rights reserved.
+
+日本語:
+このファイルは、ゲーム 「soulman」 の実行ファイルに関するライセンス全文です。
+すべてのプログラムコード、コンパイル済みバイナリ、および関連するロジックの著作権は y-tetsu に帰属します。
+
+この実行ファイルは個人的な利用の範囲で自由に使用できます。
+ただし、作者の許可なく実行ファイルやその内容を複製、改変、再配布、またはリバースエンジニアリングすることを禁止します。
+
+© 2025 y-tetsu — 無断転載・改変禁止。

@@ -1,0 +1,15 @@
+English:
+All images, sound effects, music, and other media assets included in this distribution are copyrighted by y-tetsu.
+These assets are provided solely for use within the distributed game “soulman”.
+
+You may not extract, modify, redistribute, or use these assets in other projects without explicit permission from the author.
+
+© 2025 y-tetsu — All rights reserved.
+
+日本語:
+この配布物に含まれるすべての画像、効果音、音楽、その他のメディアアセットの著作権は y-tetsu に帰属します。
+これらのアセットは、配布されたゲーム 「soulman」 内での使用のみを目的として提供されています。
+
+作者の明示的な許可なく、これらのアセットを抽出、改変、再配布、または他のプロジェクトで使用することを禁止します。
+
+© 2025 y-tetsu — 無断使用・転載禁止。
