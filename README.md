@@ -66,6 +66,8 @@ This demo version includes the first playable stage to showcase the gameplay and
 2. Extract it to any folder.  
 3. Run `soulman_v0.1.0_demo.exe`.
 
+<br>
+
 1. [Releases](../../releases) ページから最新の `.zip` をダウンロード  
 2. 任意のフォルダに展開  
 3. `soulman_v0.1.0_demo.exe` を実行して開始！
