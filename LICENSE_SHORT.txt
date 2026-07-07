@@ -3,7 +3,7 @@ All program code, images, sounds, and other assets included in this distribution
 Unauthorized reproduction, modification, or redistribution is prohibited.
 However, this demo version of the game “soulman” may be freely used for personal enjoyment.
 
-© 2025 y-tetsu
+© 2025-2026 y-tetsu
 
 For full license details, please refer to:
 
@@ -15,7 +15,7 @@ For full license details, please refer to:
 無断での複製、改変、再配布を禁止します。
 ただし、本デモ版ゲーム 「soulman」 は個人的な利用の範囲で自由にお楽しみいただけます。
 
-© 2025 y-tetsu
+© 2025-2026 y-tetsu
 
 詳細なライセンス内容については以下のファイルを参照してください。
 

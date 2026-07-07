@@ -18,22 +18,24 @@ This demo version includes the first playable stage to showcase the gameplay and
 ### 🎹 Keyboard / キーボード操作
 | Action | Key |
 |--------|-----|
-| Select | Enter |
+| Select/Restart | Enter |
 | Quit | Backspace |
 | Move left/right/up/down | A / D / W / S |
 | Jump | L |
 | Attack | K |
 | Mode Change | 8 or 9 |
+| Weapon Change | I or O |
 
 ### 🎮 Controller / コントローラー操作（対応）
 | Action | Button |
 |--------|---------|
-| Select | START |
+| Select/Restart | START |
 | Quit | BACK |
 | Move | D-Pad / Stick |
 | Jump | A |
 | Attack | X |
 | Mode Change | L2 or R2 |
+| Weapon Change | L1 or R1 |
 
 
 ---
@@ -51,8 +53,7 @@ This demo version includes the first playable stage to showcase the gameplay and
 
 ## 📦 Contents / 内容物
 
-- `soulman_v0.1.0_demo.exe` — Windows executable  
-  Windows用実行ファイル  
+- `soulman_v0.2.0_demo.exe` — Windows executable / Windows用実行ファイル  
 - `LICENSE_SHORT.txt` — License (short version) / 短縮版ライセンス  
 - `LICENSE_CODE.txt` — License for the executable / 実行ファイル用ライセンス  
 - `LICENSE_ASSETS.txt` — License for images and sounds / 画像・音声用ライセンス  
@@ -64,17 +65,21 @@ This demo version includes the first playable stage to showcase the gameplay and
 
 1. Download the latest `.zip` file from the [Releases](../../releases) page.  
 2. Extract it to any folder.  
-3. Run `soulman_v0.1.0_demo.exe`.
+3. Run `soulman_v0.2.0_demo.exe`.
 
 <br>
 
 1. [Releases](../../releases) ページから最新の `.zip` をダウンロード  
 2. 任意のフォルダに展開  
-3. `soulman_v0.1.0_demo.exe` を実行して開始！
+3. `soulman_v0.2.0_demo.exe` を実行して開始！
 
 ---
 
 ## 🏷️ Version & Changelog / バージョンと更新履歴
+
+**v0.2.0-demo (2026-07-12)**  
+- Adds 1 new stage (Hawkman Stage) with background music.  
+- 1ステージ追加(ホークマン)・BGM入り
 
 **v0.1.0-demo (2025-11-09)**  
 - First public demo release  
@@ -93,7 +98,7 @@ This demo version includes the first playable stage to showcase the gameplay and
 ゲーム実行ファイルおよびコード、アセット、短縮版ライセンスについては  
 上記の各ライセンスファイルをご確認ください。
 
-© 2025 y-tetsu. All rights reserved.  
+© 2025-2026 y-tetsu. All rights reserved.  
 Unauthorized redistribution or modification is prohibited.  
 無断転載・改変を禁じます。
 
